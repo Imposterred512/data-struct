@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc -o out/test3 test.c list.c
+out/test3

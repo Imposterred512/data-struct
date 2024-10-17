@@ -1,0 +1,4 @@
+#!/bin/bash
+gcc -o out/test map.c test.c list.c
+out/test
+echo
